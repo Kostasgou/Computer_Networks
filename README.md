@@ -609,26 +609,16 @@ This repository showcases:
 
 ---
 
-## Authors
-
-Add your name or team members here.
 
 Example:
 
-* Your Name
-* Collaborator Name
+* Konstantinos Gougas
+* Aris Karagiannakos
+* Leonidas Panagis
 
 ---
 
-## License
 
-Add the license you want to use for your repository.
-
-Example:
-
-```text
-MIT License
-```
 
 ---
 
