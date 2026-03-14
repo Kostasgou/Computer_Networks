@@ -610,7 +610,7 @@ This repository showcases:
 ---
 
 
-Example:
+Authors:
 
 * Konstantinos Gougas
 * Aris Karagiannakos
